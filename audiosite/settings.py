@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'audiosite',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -62,6 +63,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
+                'django.template.context_processors.media',
             ],
         },
     },
@@ -122,3 +124,6 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'audiosite/static'),
 ]
 
+# Media Directory (added by Cla)
+MEDIA_ROOT=os.path.join(BASE_DIR,"audiosite/sounddir")
+MEDIA_URL='/media/'
