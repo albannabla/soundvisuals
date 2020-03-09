@@ -1,0 +1,53 @@
+{% load static %}
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Audio Visualization using FFT</title>   
+        <link rel="stylesheet" type="text/css" href="{% static 'style.css' %}"> 
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="description" content="Create sounds using 3 oscillators and visualize them on charts">
+        <meta name="author" content="Alban Nabla">
+        <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+    </head>
+
+    <body>
+        <h1 id="master-title">Audio Visualization</h1>
+        <div></div>
+        <form action="/form"> <button type="submit">Modify Parameters</button> </form> 
+        <div></div>
+        <audio controls>
+            <source src="{% static 'audio.wav' %}" type="audio/wav">
+            <embed height="50" width="100" src="{% static 'audio.wav' %}">
+        </audio>
+        <div></div>
+        <div>
+            <img id="timeplot" src="{% static 'chart.png' %}">
+        </div>
+        <img id="fftplot" src="{% static 'plot.png' %}">
+        <table>
+            <tr>
+                <th>Oscillator</th>
+                <th>Type</th>
+                <th>Frequency</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>{{ osc1 }}</td>
+                <td>{{ freq1 }}</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>{{ osc2 }}</td>
+                <td>{{ freq2 }}</td>
+            </tr>    
+            <tr>
+                <td>3</td>
+                <td>{{ osc3 }}</td>
+                <td>{{ freq3 }}</td>
+            </tr>          
+        </table>
+
+    </body>
+</html>
+

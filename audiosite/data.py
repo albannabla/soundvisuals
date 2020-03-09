@@ -1,0 +1,1 @@
+osc1 = 'Sine'osc2 = 'Sine'osc3 = 'Sine'freq1 = 1000freq2 = 2000freq3 = 4000

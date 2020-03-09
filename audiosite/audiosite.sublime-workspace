@@ -1,0 +1,410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"saw",
+				"sawtooth"
+			],
+			[
+				"fre",
+				"freq3"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"FORMAT",
+				"FORMAT"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"pr",
+				"pricepersft"
+			],
+			[
+				"te",
+				"tempdate"
+			],
+			[
+				"page",
+				"pagelines"
+			],
+			[
+				"con",
+				"conversion"
+			],
+			[
+				"Pri",
+				"Pricepersft"
+			],
+			[
+				"wid",
+				"max-width\tproperty"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Pr",
+				"Pricepersft"
+			],
+			[
+				"area",
+				"area"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"mysqli_",
+				"mysqli_connect"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"htm",
+				"html"
+			],
+			[
+				"math",
+				"maths"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts"
+	],
+	"file_history":
+	[
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/wavefile.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/index.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/views.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/fftplot.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/timeplot.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/form.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/formsubmit.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/data.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data2file.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data2file",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/data.ini",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/forms.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/urls.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/testform.html",
+		"/Users/canzonettaclaudio/Desktop/ajax.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/home.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/static/style.css",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plot3oscs.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plot2png.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plotfft.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/templates/base.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/views.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/urls.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/templates/index.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/settings.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/home.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/settings.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/generate_sine.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/htdocs/index.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/index.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/transnum.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/home.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/mic2file.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/wav2plot",
+		"/Users/canzonettaclaudio/Desktop/python/fft.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/home.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/urls.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/wsgi.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/manage.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/settings.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/urls.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/index.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/contact.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/models.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/templates/events/announcements.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/static/main.css",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/templates/calendar_base.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/apps.py",
+		"/Users/canzonettaclaudio/Desktop/python/Django/create new project.txt",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_site/myclub_site/settings.py",
+		"/Users/canzonettaclaudio/Desktop/python/Django/start up sequence.txt",
+		"/Users/canzonettaclaudio/Desktop/python/venv workaround.txt",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/stile.css",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/test.js",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/test.html",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/scraper.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/getnumpage.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/testscraperupdate.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/averagemedian.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/average.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/test.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/scraperstorico.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/index.html",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/purge.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/cancel.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/scripts/getData.php",
+		"/Users/canzonettaclaudio/Desktop/test.php",
+		"/Users/canzonettaclaudio/Desktop/test.html",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/getData.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/truncate.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/scraper.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/purge.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/insert.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/cancel.php",
+		"/Users/canzonettaclaudio/Desktop/htdocs/home.php",
+		"/Users/canzonettaclaudio/Downloads/Propertyhk.sql",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/insert.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/WEBSITE/20191210/htdocs/insert.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/WEBSITE/20200124/scraper.php",
+		"/Users/canzonettaclaudio/Desktop/python/test.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/truncate.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/WEBSITE/20191210/htdocs/cancel.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in php/scraper_propertyhk_v1.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in php/scraper_propertyhk_v2.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in php/scrapertest_v5.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in php/idbmscraper.js",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/phpmyadmin/index.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in php/scrapertest_v4.php",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw/scripts/initialnames.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw/index.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/esperimenti in node/testscraper_v2.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/testscraper_v3.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw/scripts/functions.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw/style.css",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/testscraper.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/testscraper_v2.js",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/Web Scraping Strategy.txt",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/DATA/Source Websites.txt",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/TKOPlaza/HOSTING/Free Web Solutions.txt",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/appendices.html",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/wp-config.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/phpmyadmin/config.inc.php",
+		"/Users/canzonettaclaudio/.bitnami/stackman/machines/xampp/volumes/root/htdocs/bitnami.css",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/5.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/4.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/2.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/appendices/Appendix 3.2.1 - Board of Directors - June 2019.docx",
+		"/Users/canzonettaclaudio/Desktop/index.html",
+		"/Users/canzonettaclaudio/Desktop/listIndex.js",
+		"/Users/canzonettaclaudio/Desktop/test/index.html",
+		"/Users/canzonettaclaudio/Desktop/test/list.js",
+		"/Users/canzonettaclaudio/Desktop/test/scan.js",
+		"/Users/canzonettaclaudio/Desktop/test/index2",
+		"/Users/canzonettaclaudio/Desktop/test/include.js",
+		"/Users/canzonettaclaudio/Desktop/test/content.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/6.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/3.html",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/appendices/3.2.1 - Board of Directors.docx",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/index.html",
+		"/Users/canzonettaclaudio/Desktop/acme/index.html",
+		"/Users/canzonettaclaudio/Desktop/acme/css/style.css",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/style.css",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/site.css",
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/global.css",
+		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders.html",
+		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders_files/site.css",
+		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders_files/css.css"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "audiosite.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
