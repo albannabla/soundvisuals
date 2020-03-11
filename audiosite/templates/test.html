@@ -1,5 +1,6 @@
 {% load static %}
 <!DOCTYPE HTML>
+
 <html>
     <head>
         <title>Audio Visualization using FFT</title>   
@@ -9,21 +10,11 @@
         <meta name="description" content="Create sounds using 3 oscillators and visualize them on charts">
         <meta name="author" content="Alban Nabla">
         <link href='http://fonts.googleapis.com/css?family=Lobster+Two' rel='stylesheet' type='text/css'>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
     </head>
 
     <body>
-        <h1>Please enter your desired sound parameters:</h1>
-        <div></div>
-        <form action="/"> <button type="submit">Home</button> </form> 
-        <div></div>
-        <form action="" method="post">
-            <table>
-            {% csrf_token %}
-            {{ form.as_table }}
-            </table>
-            <div></div>
-            <button type="submit"> Change Parameters </button>
-        </form>
+        {{ plot }}
     </body>
 </html>
 

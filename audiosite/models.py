@@ -4,3 +4,6 @@ class sound(models.Model):
 	wavetype = models.CharField('Wave Type', max_length=15)
 	frequency = models.IntegerField()
 
+class types(models.Model):
+	wavetype = models.CharField('Wave Type', max_length=15)
+

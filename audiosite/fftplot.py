@@ -19,26 +19,26 @@ N = duration * fs
 
 def fftplot(freq1,osc1,freq2,osc2,freq3,osc3):
 	t = np.arange(int(N)) / fs
-	period = 1/freq3
+	period = 1/freq1
 	sine_length = np.arange(int(period*fs)) / fs
 
-	if osc1 == "Sawtooth":
+	if osc1 == ["Sawtooth"]:
 		out1 = signal.sawtooth(2 * np.pi * freq1 * t)
-	elif osc1 == "Square":
+	elif osc1 == ["Square"]:
 		out1 = signal.square(2 * np.pi * freq1 * t)
 	else: 
 		out1 = np.sin(2 * np.pi * freq1 * t)
 
-	if osc2 == "Sawtooth":
+	if osc2 == ["Sawtooth"]:
 		out2 = signal.sawtooth(2 * np.pi * freq2 * t)
-	elif osc2 == "Square":
+	elif osc2 == ["Square"]:
 		out2 = signal.square(2 * np.pi * freq2 * t)
 	else: 
 		out2 = np.sin(2 * np.pi * freq2 * t)
 
-	if osc3 == "Sawtooth":
+	if osc3 == ["Sawtooth"]:
 		out3 = signal.sawtooth(2 * np.pi * freq3 * t)
-	elif osc3 == "Square":
+	elif osc3 == ["Square"]:
 		out3 = signal.square(2 * np.pi * freq3 * t)
 	else: 
 		out3 = np.sin(2 * np.pi * freq3 * t)
@@ -49,10 +49,11 @@ def fftplot(freq1,osc1,freq2,osc2,freq3,osc3):
 	yf = np.abs(fft_out[0:int(N//2)])
 
 	fig, axs = plt.subplots(1,1)
+	font = {'fontname': 'Apple Chancery'}
 	axs.plot(xf, yf)
-	axs.set_title('Frequency Analysis of the Generated Sound', fontsize=16)
-	axs.set_xlabel('frequency')
-	axs.set_ylabel('amplitude')
+	axs.set_title('Generated Sound (Frequency Domain)', fontsize=16, **font)
+	axs.set_xlabel('frequency', **font)
+	axs.set_ylabel('amplitude', **font)
 	plt.savefig('audiosite/static/plot.png')
 	#plt.show()
 	return()

@@ -12,19 +12,10 @@
     </head>
 
     <body>
-        <h1 id="master-title">Audio Visualization</h1>
+        <h1 id="master-title">Graphical Visualization of a Sound</h1>
         <div></div>
         <form action="/form"> <button type="submit">Modify Parameters</button> </form> 
         <div></div>
-        <audio controls>
-            <source src="{% static 'audio.wav' %}" type="audio/wav">
-            <embed height="50" width="100" src="{% static 'audio.wav' %}">
-        </audio>
-        <div></div>
-        <div>
-            <img id="timeplot" src="{% static 'chart.png' %}">
-        </div>
-        <img id="fftplot" src="{% static 'plot.png' %}">
         <table>
             <tr>
                 <th>Oscillator</th>
@@ -47,6 +38,16 @@
                 <td>{{ freq3 }}</td>
             </tr>          
         </table>
+        <div></div>
+        <audio controls>
+            <source src="{% static 'audio.wav' %}" type="audio/wav">
+            <embed height="50" width="100" src="{% static 'audio.wav' %}">
+        </audio>
+        <div></div>       
+        <div>
+            <img id="timeplot" src="{% static 'chart.png' %}">
+        </div>
+        <img id="fftplot" src="{% static 'plot.png' %}">
 
     </body>
 </html>

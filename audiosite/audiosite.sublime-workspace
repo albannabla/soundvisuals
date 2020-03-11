@@ -119,6 +119,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "forms.py",
+			"settings":
+			{
+				"buffer_size": 479,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -153,29 +162,35 @@
 	"expanded_folders":
 	[
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts"
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/static",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates"
 	],
 	"file_history":
 	[
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/wavefile.py",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/index.html",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/views.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/fftplot.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/timeplot.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/index.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/views.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/form.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/models.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/forms.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/admin.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/static/style.css",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/settings.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/urls.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/test.html",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/testplot.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/nocache.py",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/wavefile.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/formsubmit.html",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/data.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data2file.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/data2file",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/data.ini",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/forms.py",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/urls.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/testform.html",
 		"/Users/canzonettaclaudio/Desktop/ajax.html",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/home.py",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/static/style.css",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plot3oscs.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plot2png.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/test scripts/plotfft.py",
@@ -183,7 +198,6 @@
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/events/views.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/urls.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Lucky Draw (Django)/lucky_root/lucky_website/templates/index.html",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/settings.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/home.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Django Test/myclub_root/myclub_site/settings.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/generate_sine.py",
@@ -280,12 +294,7 @@
 		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/index.html",
 		"/Users/canzonettaclaudio/Desktop/acme/index.html",
 		"/Users/canzonettaclaudio/Desktop/acme/css/style.css",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/style.css",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/site.css",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/global.css",
-		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders.html",
-		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders_files/site.css",
-		"/Users/canzonettaclaudio/Desktop/Engineers Without Borders_files/css.css"
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/style.css"
 	],
 	"find":
 	{
@@ -320,8 +329,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
