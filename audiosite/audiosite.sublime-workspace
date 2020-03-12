@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"sta",
+				"staticfiles"
+			],
+			[
 				"saw",
 				"sawtooth"
 			],
@@ -127,6 +131,15 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "settings.py",
+			"settings":
+			{
+				"buffer_size": 4066,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -163,10 +176,15 @@
 	[
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/static",
-		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates"
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root"
 	],
 	"file_history":
 	[
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/runtime.txt",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/requirements.txt",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/.gitignore",
+		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/.gitignore",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/fftplot.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/timeplot.py",
 		"/Users/canzonettaclaudio/Documents/LUCA CODING/Audio Analysis/audio_root/audiosite/templates/index.html",
@@ -290,11 +308,7 @@
 		"/Users/canzonettaclaudio/Desktop/test/content.html",
 		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/6.html",
 		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/3.html",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/appendices/3.2.1 - Board of Directors.docx",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/index.html",
-		"/Users/canzonettaclaudio/Desktop/acme/index.html",
-		"/Users/canzonettaclaudio/Desktop/acme/css/style.css",
-		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/style.css"
+		"/Users/canzonettaclaudio/Documents/EWB/OSP/MANUAL WEBSITE/appendices/3.2.1 - Board of Directors.docx"
 	],
 	"find":
 	{
@@ -329,7 +343,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -356,6 +370,36 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
