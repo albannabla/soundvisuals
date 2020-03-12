@@ -1,3 +1,2 @@
 libsndfile1
-https://github.com/jayshreeanand/heroku-buildpack-libsndfile.git
-libsndfile
+libsndfile1-dev
