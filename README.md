@@ -12,6 +12,7 @@ things that I have learned in this project:
 - how to convert a normal html+js+php website into Django, so to integrate python scripts
 - how to generate sounds using mathematical signals
 - how to create charts starting from a wave file
+- how to create an Aptfile to upload strange modules on Heroku (in this case the soundfile library)
 
 things that I did not manage to fix: 
 - creation of files and charts "on the fly": the app saves everything to images and wavefile, which are displayed in a different webpage...  I am still not clear if charts can be generated on the fly like I typically do with googlecharts on a js based website
