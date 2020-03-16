@@ -15,4 +15,5 @@ things that I have learned in this project:
 
 things that I did not manage to fix: 
 - creation of files and charts "on the fly": the app saves everything to images and wavefile, which are displayed in a different webpage...  I am still not clear if charts can be generated on the fly like I typically do with googlecharts on a js based website
+- often the wavefile (which is saved into the static folder) is not re-loaded by the webpage... this is quite annyoying since there is no way to immediately tell that the sound does not relate to the waves displayed and it is also quite erratic... I have not quite figured out how to fix this issue
 
